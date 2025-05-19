@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
+name: "✅ Feature request"
+about: Feature 작업 상황을 입력해주세요.
+title: "[FEAT] - "
 labels: "feat\U0001F528"
 assignees: ''
 

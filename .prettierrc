@@ -1,0 +1,15 @@
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "indentStlye": "space",
+  "indentSize": 10,
+  "useTabs": false,
+  "overrides": [
+    {
+      "files": "*.json",
+      "options": {
+        "printWidth": 200
+      }
+    }
+  ]
+}
